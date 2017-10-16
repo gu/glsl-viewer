@@ -1,0 +1,7 @@
+﻿  DemoFramework.cpp
+c:\users\gu\source\repos\cse5542-framework\demoframework\trackball.h(97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\gu\source\repos\cse5542-framework\demoframework\drawablesphere.h(16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\gu\source\repos\cse5542-framework\demoframework\fileutility.h(19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\gu\source\repos\cse5542-framework\demoframework\demoframework.cpp(95): warning C4305: 'argument': truncation from 'double' to 'const float'
+  DemoFramework.vcxproj -> C:\Users\gu\source\repos\CSE5542-Framework\Debug\DemoFramework.exe
